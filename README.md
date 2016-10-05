@@ -42,8 +42,8 @@ Configuration via Linaro
 
 #### To compile the software:
 
-    > cd stih410-b2260
-    > source ./setup-environment
+> cd stih410-b2260
+> source ./setup-environment
         -> for Machine choose: stih410-b2260
         -> for Distributions choose: rpb-wayland
 
